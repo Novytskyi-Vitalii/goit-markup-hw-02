@@ -26,7 +26,7 @@ body {
 }
 /* site nav */
 
-.site-nav .link {
+.site-nav .link .list {
   color: var(--black-color);
   text-decoration: none;
 }
@@ -47,7 +47,6 @@ body {
   background-color: #2f303a;
 }
 .hero-title {
-  font-family: Roboto, sans-serif;
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
@@ -55,7 +54,6 @@ body {
   color: var(--white-color);
 }
 .hero-link {
-  font-family: Roboto, sans-serif;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
