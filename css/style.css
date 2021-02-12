@@ -60,8 +60,8 @@ body {
   font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
-  text-align: center;
-  color: var(--white-color);
+  /* text-align: center;
+  color: var(--white-color); */
   text-decoration: none;
 }
 .button {
@@ -136,6 +136,11 @@ body {
   color: var(--grey-color)
 }
 /* Кнопки */
+.button-hero {
+  background-color: var(--blue-color);
+  color: var(--white-color);
+  text-align: center;
+}
 .button {
   background-color: #F5F4FA;
   color: var(--black-color);
