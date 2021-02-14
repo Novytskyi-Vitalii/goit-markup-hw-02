@@ -48,6 +48,7 @@ body {
 
 .hero {
   background-color: #2f303a;
+  text-align: center;
 }
 .hero-title {
   font-weight: 900;
@@ -64,11 +65,11 @@ body {
   color: var(--white-color); */
   text-decoration: none;
 }
-.button {
+/* .button-hero {
   font-family: inherit;
   color: var(--white-color);
   background-color: var(--blue-color);
-}
+} */
 
 /* Нащи приемущества */
 
@@ -143,6 +144,7 @@ body {
   text-align: center;
 }
 .button {
+  font-family: inherit;
   background-color: #f5f4fa;
   color: var(--black-color);
 }
