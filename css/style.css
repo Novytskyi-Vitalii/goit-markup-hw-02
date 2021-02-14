@@ -65,6 +65,7 @@ body {
   text-decoration: none;
 }
 .button {
+  font-family: inherit;
   color: var(--white-color);
   background-color: var(--blue-color);
 }
@@ -123,7 +124,7 @@ body {
 }
 .card-title {
   font-family: Roboto;
-  font-weight: 700
+  font-weight: 700;
   font-size: 18px;
   line-height: 2;
   color: var(--black-color);
@@ -133,7 +134,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.87;
-  color: var(--grey-color)
+  color: var(--grey-color);
 }
 /* Кнопки */
 .button-hero {
@@ -142,7 +143,7 @@ body {
   text-align: center;
 }
 .button {
-  background-color: #F5F4FA;
+  background-color: #f5f4fa;
   color: var(--black-color);
 }
 .button:hover {
@@ -155,10 +156,10 @@ body {
 }
 
 .button .link .current {
-  background-color: 2196F3;
+  background-color: 2196f3;
   color: var(--white-color);
 }
-  /* .link-title {
+/* .link-title {
     text-decoration: none;
   } */
 .title {
